@@ -1,6 +1,6 @@
 # Introduce
 
-This is a repo for noting and submitting all my work in CS331 Advanced Computer Vision
+This is a repo for noting and submitting all my work in Advanced Computer Vision - CS331 UIT
 
 # Exercise 1 - Gradient Desent
 
